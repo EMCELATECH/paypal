@@ -5,3 +5,4 @@ egbo
 deby
 amaka
 omalicha
+manager
