@@ -6,3 +6,4 @@ deby
 amaka
 omalicha
 manager
+datti
